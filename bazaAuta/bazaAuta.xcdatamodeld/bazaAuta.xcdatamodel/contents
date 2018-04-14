@@ -13,8 +13,8 @@
         <attribute name="make" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="model" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productionYear" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="vin" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="year" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
     </entity>
     <elements>
         <element name="Car" positionX="-63" positionY="-18" width="128" height="255"/>
